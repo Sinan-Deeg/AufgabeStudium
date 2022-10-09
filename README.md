@@ -1,4 +1,4 @@
 # AufgabeStudium
 Bankautomat
 
-JUnittests müssen für alle Klassen implementiert werden
+JUnits must be implemented for all classes
